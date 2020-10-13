@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "I'm a Hokie",
+    "title": "Billy Parvatam",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://lucid-hodgkin-d56e51.netlify.app/",
+    "description": "This is the professional site of Billy Parvatam. You will find information about my studies and research at Virginia Tech, as a graduate student in the department of communication.",
+    "siteUrl": "https://billyparvatam.netlify.app/",
     "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": ""
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "UA-180557230-1"
 }
