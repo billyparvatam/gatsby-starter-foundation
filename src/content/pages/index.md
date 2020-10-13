@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He loves VT and the good life.
+He loves Virginia Tech, the Nationals, and having a good time with friends.
