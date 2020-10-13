@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: Hokie Lopez
-tagline: Hokie and Awesome Person
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Billy Parvatam
+tagline: Virginia Tech School of Communication Graduate Student
+featuredImage: /assets/linkedln-pic.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
